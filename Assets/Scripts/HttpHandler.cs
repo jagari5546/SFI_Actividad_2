@@ -13,6 +13,14 @@ public class HttpHandler : MonoBehaviour
     [SerializeField] private Image[] cartasImages;
     [SerializeField] private TMP_Text[] cartasText;
     [SerializeField] private TMP_Text nameText;
+    
+    private void Start()
+    {
+        if (gameObject.scene.rootCount != 0) // 
+        {
+            DontDestroyOnLoad(gameObject);
+        }
+    }
 
     public void SendRequest()
     {
@@ -84,10 +92,27 @@ public class HttpHandler : MonoBehaviour
         else
         {
             Texture2D texture = ((DownloadHandlerTexture)request.downloadHandler).texture;
-            imageComponent.sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), Vector2.zero);
-            imageComponent.gameObject.SetActive(true);
+
+            Texture2D newTexture = new Texture2D(texture.width, texture.height, TextureFormat.RGBA32, false);
+            newTexture.SetPixels(texture.GetPixels());
+            newTexture.Apply();
+
+            Sprite newSprite = Sprite.Create(newTexture, new Rect(0, 0, newTexture.width, newTexture.height), Vector2.one * 0.5f);
+
+            if (imageComponent != null)
+            {
+                imageComponent.sprite = newSprite;
+                imageComponent.gameObject.SetActive(true);
+            }
+            else
+            {
+                Debug.LogError("El componente de imagen es nulo.");
+            }
+
+            request.Dispose();
         }
     }
+
 
     [System.Serializable]
     public class Card
