@@ -4,31 +4,61 @@
       "id": 1,
       "username": "Juan Gaviria",
       "state": true,
-      "deck": ["10", "7", "a", "j", "2"]
+      "deck": [
+        { "value": "10", "image": "https://drive.google.com/uc?export=download&id=19xfbAottIPX_ZRUSEgkn0YI7DfGah93H" },
+        { "value": "7", "image": "https://drive.google.com/uc?export=download&id=1EMcDgB4phwUI5eHos7gFu2MEQhoRLEjx" },
+        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
+        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
+        { "value": "2", "image": "https://drive.google.com/uc?export=download&id=1saXpVxxugu5eWAh4MwsC8PoVV3Uoxvzj" }
+      ]
     },
     {
       "id": 2,
       "username": "Rogrigo Goez",
       "state": true,
-      "deck": ["a", "a", "2", "6", "4"]
+      "deck": [
+        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
+        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
+        { "value": "2", "image": "https://drive.google.com/uc?export=download&id=1saXpVxxugu5eWAh4MwsC8PoVV3Uoxvzj" },
+        { "value": "6", "image": "https://drive.google.com/uc?export=download&id=136JzDogTRf9A0SdyWEYYFcG0PJwgkEZ4" },
+        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" }
+      ]
     },
     {
       "id": 3,
       "username": "Rogrigo Goez",
       "state": true,
-      "deck": ["j", "j", "10", "9", "7"]
+      "deck": [
+        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
+        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
+        { "value": "10", "image": "https://drive.google.com/uc?export=download&id=19xfbAottIPX_ZRUSEgkn0YI7DfGah93H" },
+        { "value": "9", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" },
+        { "value": "7", "image": "https://drive.google.com/uc?export=download&id=1EMcDgB4phwUI5eHos7gFu2MEQhoRLEjx" }
+      ]
     },
     {
       "id": 4,
       "username": "Chespirito",
       "state": true,
-      "deck": ["3", "4", "q", "q", "5"]
+      "deck": [
+        { "value": "3", "image": "https://drive.google.com/uc?export=download&id=1b3VLmhx6bo8tLYgTOUDKGI3xEcaqZ_Xn" },
+        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" },
+        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
+        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
+        { "value": "5", "image": "https://drive.google.com/uc?export=view&id=FILE_ID_20" }
+      ]
     },
     {
       "id": 5,
       "username": "Legarda",
       "state": true,
-      "deck": ["q", "5", "8", "6", "4"]
+      "deck": [
+        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
+        { "value": "5", "image": "https://drive.google.com/uc?export=download&id=1O3v5j8TL6sAFmbGmwCYfGqiRJuqLtNdY" },
+        { "value": "8", "image": "https://drive.google.com/uc?export=download&id=13HarEe9wZe5EVNqypVrVAFQwdA3kpC80" },
+        { "value": "6", "image": "https://drive.google.com/uc?export=download&id=136JzDogTRf9A0SdyWEYYFcG0PJwgkEZ4" },
+        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" }
+      ]
     }
   ],
   "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
