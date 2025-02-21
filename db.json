@@ -17,20 +17,19 @@
       "username":"Rogrigo Goez",
       "state":true,
       "deck":["j","j","10","9","7"]
-    }
-    {
+    },
+    { 
       "id":4,
       "username":"Chespirito",
       "state":true,
       "deck":["3","4","q","q","5"]
-    }
+    },
     {
       "id":5,
       "username":"Legarda",
       "state":true,
       "deck":["q","5","8","6","4"]
     }
-  ]
-,
+  ],
   "worlds":[1,2,3,4,5,6,7,8]
 }
