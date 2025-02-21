@@ -4,19 +4,31 @@
       "id":1,
       "username":"Juan Gaviria",
       "state":true,
-      "deck":[18,7,25,32,6]
+      "deck":["10","7","a","j","2"]
     },
     {
       "id":2,
       "username":"Rogrigo Goez",
       "state":true,
-      "deck":[45,98,51,266,211]
+      "deck":["a","a","2","6","4"]
     },
     {
       "id":3,
-      "username":"Mauro Castillo",
+      "username":"Rogrigo Goez",
       "state":true,
-      "deck":[33,123,456,28,1]
+      "deck":["j","j","10","9","7"]
+    }
+    {
+      "id":4,
+      "username":"Chespirito",
+      "state":true,
+      "deck":["3","4","q","q","5"]
+    }
+    {
+      "id":5,
+      "username":"Legarda",
+      "state":true,
+      "deck":["q","5","8","6","4"]
     }
   ]
 ,
