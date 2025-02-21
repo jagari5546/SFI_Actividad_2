@@ -5,11 +5,11 @@
       "username": "Juan Gaviria",
       "state": true,
       "deck": [
-        { "value": "10", "image": "https://drive.google.com/uc?export=download&id=19xfbAottIPX_ZRUSEgkn0YI7DfGah93H" },
-        { "value": "7", "image": "https://drive.google.com/uc?export=download&id=1EMcDgB4phwUI5eHos7gFu2MEQhoRLEjx" },
-        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
-        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
-        { "value": "2", "image": "https://drive.google.com/uc?export=download&id=1saXpVxxugu5eWAh4MwsC8PoVV3Uoxvzj" }
+        { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
+        { "value": "7", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" },
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "2", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" }
       ]
     },
     {
@@ -17,11 +17,11 @@
       "username": "Rogrigo Goez",
       "state": true,
       "deck": [
-        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
-        { "value": "a", "image": "https://drive.google.com/uc?export=download&id=1Fo_PlhcJaEc0kEqIpKIqemvLSDx0XDVM" },
-        { "value": "2", "image": "https://drive.google.com/uc?export=download&id=1saXpVxxugu5eWAh4MwsC8PoVV3Uoxvzj" },
-        { "value": "6", "image": "https://drive.google.com/uc?export=download&id=136JzDogTRf9A0SdyWEYYFcG0PJwgkEZ4" },
-        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" }
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "a", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_a_m6v1aq.png" },
+        { "value": "2", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_2_vyfncg.png" },
+        { "value": "6", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_6_wd7ra6.png" },
+        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" }
       ]
     },
     {
@@ -29,11 +29,11 @@
       "username": "Rogrigo Goez",
       "state": true,
       "deck": [
-        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
-        { "value": "j", "image": "https://drive.google.com/uc?export=download&id=1bkipF1m5Ll1A3EGNJcEtyFLrM0Zw5QXG" },
-        { "value": "10", "image": "https://drive.google.com/uc?export=download&id=19xfbAottIPX_ZRUSEgkn0YI7DfGah93H" },
-        { "value": "9", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" },
-        { "value": "7", "image": "https://drive.google.com/uc?export=download&id=1EMcDgB4phwUI5eHos7gFu2MEQhoRLEjx" }
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "j", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_j_uffgkj.png" },
+        { "value": "10", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_10_vydlnz.png" },
+        { "value": "9", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_9_l04mpr.png" },
+        { "value": "7", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_7_gf1v0m.png" }
       ]
     },
     {
@@ -41,11 +41,11 @@
       "username": "Chespirito",
       "state": true,
       "deck": [
-        { "value": "3", "image": "https://drive.google.com/uc?export=download&id=1b3VLmhx6bo8tLYgTOUDKGI3xEcaqZ_Xn" },
-        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" },
-        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
-        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
-        { "value": "5", "image": "https://drive.google.com/uc?export=download&id=1O3v5j8TL6sAFmbGmwCYfGqiRJuqLtNdY" }
+        { "value": "3", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_3_jbcn5k.png" },
+        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" },
+        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
+        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
+        { "value": "5", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_5_plqkpr.png" }
       ]
     },
     {
@@ -53,11 +53,11 @@
       "username": "Legarda",
       "state": true,
       "deck": [
-        { "value": "q", "image": "https://drive.google.com/uc?export=download&id=1rnFxL0sG97WZCY9EoEQrafVv6mNWj_Vm" },
-        { "value": "5", "image": "https://drive.google.com/uc?export=download&id=1O3v5j8TL6sAFmbGmwCYfGqiRJuqLtNdY" },
-        { "value": "8", "image": "https://drive.google.com/uc?export=download&id=13HarEe9wZe5EVNqypVrVAFQwdA3kpC80" },
-        { "value": "6", "image": "https://drive.google.com/uc?export=download&id=136JzDogTRf9A0SdyWEYYFcG0PJwgkEZ4" },
-        { "value": "4", "image": "https://drive.google.com/uc?export=download&id=1Scu_DVG4Adeso9p9Dv8pSHUa7vK8UV9s" }
+        { "value": "q", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181261/clubs_q_em6kqx.png" },
+        { "value": "5", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_5_plqkpr.png" },
+        { "value": "8", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181260/clubs_8_x1tbeu.png" },
+        { "value": "6", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181259/clubs_6_wd7ra6.png" },
+        { "value": "4", "image": "https://res.cloudinary.com/dxivr4fpz/image/upload/v1740181258/clubs_4_tv3dfo.png" }
       ]
     }
   ],
